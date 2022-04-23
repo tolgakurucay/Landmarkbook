@@ -7,12 +7,12 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/ageTexttt"
+        android:id="@+id/ageText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="63dp"
         android:ems="10"
-        android:hint="Age"
+        android:hint="Agee"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
