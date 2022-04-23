@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         //Ufak verileri kaydetmek için kullanılır
 
 
-
+//güncellendi
 
         val myAge=ageText.text.toString().toIntOrNull()
         if(myAge!=null)
